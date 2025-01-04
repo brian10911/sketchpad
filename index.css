@@ -22,8 +22,6 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     border: 2px;
-    border-style: solid;
-    border-color:red;
     justify-content: center;
     margin-bottom: 30px;
 }
